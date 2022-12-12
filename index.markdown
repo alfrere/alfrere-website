@@ -10,4 +10,4 @@ title: /home
 
 Here, you will be able to find my projects, some information about me and my beautiful CV.
 
-[> My Linkedin](https://www.linkedin.com/in/alexis-frere/) [> My Github](https://github.com/alfrere)
+[> My Linkedin](https://www.linkedin.com/in/alexis-frere/){:target="_blank"} [> My Github](https://github.com/alfrere){:target="_blank"}
