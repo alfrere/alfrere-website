@@ -4,18 +4,20 @@ title: /about
 permalink: /about/
 ---
 
-## > About me
+## \< About me >
 
 Hi, I'm Frére Alexis.
 
 I'm currently working toward a Bachelor's degree in Computer Science at the University of Bordeaux in France. In addition I would later like to work in software development.
 
-## > Languages
+## \< Languages >
 
-![python shield](../files/images/python_shield.png)![go shield](../files/images/go_shield.png)![java shield](../files/images/java_shield.png)![c shield](../files/images/c_shield.png)
+![python](../files/images/python.svg){:width="50"} ![c_lang](../files/images/c_lang.svg){:width="50"} ![bash](../files/images/gnu_bash.svg){:width="50"} ![java](../files/images/java.png){:width="50"} ![go_lang](../files/images/go_lang.svg){:width="50"}
 
-## > My favorites linux distros
+## \< Softwares >
 
-![archlinux shield](../files/images/archlinux_shield.png)![debian shield](../files/images/debian_shield.png)![linux mint shield](../files/images/linux_mint_shield.png)
+![Intellij IDEA Community](../files/images/intellijidea.svg){:width="50"} ![Visual Studio Code](../files/images/vscode.svg){:width="50"} ![git](../files/images/git.svg){:width="50"}
 
-## [--> Download my CV <--](../files/../alfrere-website/files/cv_frére_alexis_website.pdf) TODO: Make the link functionnal
+## \< Favorites linux distros >
+
+![archlinux](../files/images/archlinux.svg){:width="50"} ![debian](../files/images/debian.svg){:width="50"} ![linux mint](../files/images/linux_mint.svg){:width="50"}
